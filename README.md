@@ -1,5 +1,5 @@
 ## About me
-I'm Software Engineer.
+I work as a software engineer.
 
 ### Work experience
 
