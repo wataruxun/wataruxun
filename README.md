@@ -1,19 +1,11 @@
 ## About me
-I work as a software engineer.
 
-### Work experience
+I'm Wataru(he/they) - I'm an application engineer. My main experiences are summarized below. 
 
-#### Framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=spring,flutter" />
+### My Skills
 
-#### Language
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,dart,solidity" />
+[![My Skills](https://skillicons.dev/icons?i=vue,nestjs,spring,flutter,aws,figma)](https://skillicons.dev)
 
-### Learning or Interest
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,firebase,figma" />
-
-### Favorite Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=idea,vscode" />
 
 ### Status
 
