@@ -1,6 +1,6 @@
 ## About me
 
-I'm Wataru(he/they) - I'm an application engineer. My main experiences are summarized below. 
+I'm Wataru(he/him) - I'm an application engineer. My main experiences are summarized below. 
 
 ### My Skills
 
